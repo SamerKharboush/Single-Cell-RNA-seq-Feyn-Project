@@ -5,3 +5,8 @@ pandas
 torch
 torchvision==0.13.1
 tqdm==4.64.0
+Seaborn
+Feyn qlattice
+Anndata
+Pandas profiling 
+Scikit-learn
